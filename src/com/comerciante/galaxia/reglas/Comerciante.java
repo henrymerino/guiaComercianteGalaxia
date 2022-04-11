@@ -12,10 +12,10 @@ import com.comerciante.galaxia.excepciones.ReglasVioladasExcepcion;
 import com.comerciante.galaxia.excepciones.SimboloDesconocidoExcepcion;
 import com.comerciante.galaxia.pregunta.interfaz.IPregunta;
 import com.comerciante.galaxia.preguntas.TiposPreguntas;
+import com.comerciante.galaxia.respuestas.Respuestas;
 import com.comerciante.galaxia.simbolos.PalabrasDiccionario;
 import com.comerciante.galaxia.simbolos.Simbolos;
 import com.comerciante.galaxia.simbolos.ValorArticulo;
-import com.comerciantes.galaxia.respuestas.Respuestas;
 
 
 public class Comerciante {

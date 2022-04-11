@@ -1,4 +1,4 @@
-package com.comerciantes.galaxia.respuestas;
+package com.comerciante.galaxia.respuestas;
 
 import java.io.Serializable;
 import java.util.LinkedHashMap;
